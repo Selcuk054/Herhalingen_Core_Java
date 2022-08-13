@@ -14,6 +14,7 @@ public class H09_Pre_Post_Decrement {
         System.out.println(nummer3);//14
         System.out.println(nummer4);//14
 
+        System.out.println("Hey dunya github deneme");
 
 
 
